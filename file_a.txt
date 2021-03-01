@@ -1,1 +1,3 @@
 file A
+acrescentado esta linha 2
+nova modif
